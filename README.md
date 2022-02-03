@@ -76,11 +76,11 @@ the user is responsible.
 [![Run on Repl.it](https://repl.it/badge/github/TOXIC-DEVIL/WhatsAsenaPublic)](https://replit.com/@TOXICDEVIL/WhatsAsena-QR)
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TOXIC-DEVIL/WhatsAsenaPublic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/basil323/WhatsAsenaPublic)
 
 ### The Hard Method
 ``` js
-$ git clone https://github.com/TOXIC-DEVIL/WhatsAsenaPublic.git
+$ https://github.com/basil323/WhatsAsenaPublic.git
 $ cd WhatsAsenaPublic
 $ npm i @adiwajshing/baileys
 $ npm i chalk
